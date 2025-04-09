@@ -42,7 +42,4 @@ Upload a single image (e.g., a row of digits like "12345"), and the app will:
 - Display predictions with cropped thumbnails
 
 
-## 📜 License
-
-MIT License. Use freely for educational or commercial purposes.
 
