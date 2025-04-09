@@ -36,7 +36,7 @@ Run in Colab and access your Streamlit app via a public URL!
 
 ## 📝 Example Usage
 
-Upload a single image (e.g., a row of digits like "12345"), and the app will:
+Upload a single image and the app will:
 - Detect each digit
 - Normalize and resize for model input
 - Display predictions with cropped thumbnails
